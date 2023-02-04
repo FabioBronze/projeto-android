@@ -15,4 +15,3 @@ https://www.linkedin.com/in/f%C3%A1bio-bronze/
 <h1/>Layout</h1>
 <img src="https://user-images.githubusercontent.com/116193280/216732626-84dfc3a7-0ca4-4756-aa4a-08fbaaa6b674.PNG" />
 <br/><br/>
-<img src="https://user-images.githubusercontent.com/116193280/216732733-741b5d96-c436-4b50-8623-a4bd03f0376f.PNG" />
