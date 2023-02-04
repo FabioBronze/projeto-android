@@ -10,7 +10,7 @@ Neste projeto, apenas foi utilizado HTML e CSS, com responsividade e adaptação
 <h1/>Autor</h1>
 Fábio Bronze
 <br/><br/>
-https://www.linkedin.com/in/f%C3%A1bio-bronze/
+Linkedin: https://www.linkedin.com/in/f%C3%A1bio-bronze/
 
 <h1/>Layout</h1>
 <img src="https://user-images.githubusercontent.com/116193280/216732626-84dfc3a7-0ca4-4756-aa4a-08fbaaa6b674.PNG" />
